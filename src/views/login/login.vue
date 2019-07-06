@@ -6,7 +6,7 @@
           <Icon type="ios-arrow-back" v-on:click="ToLogin"></Icon>登录
         </Button>
         <Button type="primary" v-on:click="ToRegister">
-          注册111111
+          注册
           <Icon type="ios-arrow-forward"></Icon>
         </Button>
       </ButtonGroup>
